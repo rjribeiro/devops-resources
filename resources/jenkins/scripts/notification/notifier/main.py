@@ -17,7 +17,7 @@ import sys
 
 from notifier import parse
 
-message = 'Build {}'.format('FAILED')
+message = 'Build FAILED'
 
 headers = {
     'Content-Type': 'application/json',
